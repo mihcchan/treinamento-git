@@ -6,3 +6,4 @@ alteração no site
 =======
 alteração local
 >>>>>>> Stashed changes
+outra alteração no site
