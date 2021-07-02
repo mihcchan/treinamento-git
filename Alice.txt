@@ -1,4 +1,8 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 Algum texto
 outra alteração
+<<<<<<< Updated upstream
 alteração no site
+=======
+alteração local
+>>>>>>> Stashed changes
